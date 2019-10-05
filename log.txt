@@ -1,0 +1,2 @@
+.gitignore file or folders contains the name of the file that we want to ignore from commit
+*.txt ignores all txt files
